@@ -1,1 +1,1 @@
-# NeuroModelThesis
+# PhysiCell Cerebrocortical Development Model
